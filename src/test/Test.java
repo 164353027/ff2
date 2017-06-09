@@ -7,4 +7,7 @@ public class Test {
     public int print(int x){
         return x;
     }
+    public int show(int y){
+        return y;
+    }
 }
